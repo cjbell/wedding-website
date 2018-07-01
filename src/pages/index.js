@@ -8,7 +8,10 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 
   div {
     text-align: center;
@@ -69,7 +72,7 @@ const RSVPButton = styled.a`
 
 const InnerContainer = styled.div`
   padding: 20px;
-`;
+`
 
 const IndexPage = () => (
   <Container>

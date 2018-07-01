@@ -3,13 +3,13 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import styledNormalize from 'styled-normalize'
 import styled, { injectGlobal } from 'styled-components'
-import mrseavesroman from '../fonts/mrseavesroman-webfont.woff';
-import mrseavespetitecaps from '../fonts/mrseavespetitecaps-webfont.woff';
-import mrseavessmallcaps from '../fonts/mrseavessmallcaps-webfont.woff';
-import mrseavesitalic from '../fonts/mrseavesitalic-webfont.woff';
-import symphonyBg from './symphony.png';
-import theme from '../theme';
-import Header from '../components/header';
+import mrseavesroman from '../fonts/mrseavesroman-webfont.woff'
+import mrseavespetitecaps from '../fonts/mrseavespetitecaps-webfont.woff'
+import mrseavessmallcaps from '../fonts/mrseavessmallcaps-webfont.woff'
+import mrseavesitalic from '../fonts/mrseavesitalic-webfont.woff'
+import symphonyBg from './symphony.png'
+import theme from '../theme'
+import Header from '../components/header'
 
 injectGlobal`
   ${styledNormalize}
@@ -52,9 +52,7 @@ const Content = styled.div`
 
 const Layout = ({ children, data }) => (
   <Content>
-    <Helmet
-      title={data.site.siteMetadata.title}
-    />
+    <Helmet title={data.site.siteMetadata.title} />
     <Header />
     {children()}
   </Content>

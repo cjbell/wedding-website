@@ -11,7 +11,7 @@ export const Section = styled.section`
   @media only screen and (min-width: 768px) {
     padding: 40px;
   }
-`;
+`
 
 export const SectionTitle = styled.h2`
   font-weight: normal;
@@ -56,7 +56,8 @@ export const SectionBody = styled.div`
   }
 
   ul {
-    margin: 0 0 30px 20px; padding: 0;
+    margin: 0 0 30px 20px;
+    padding: 0;
   }
 
   li {

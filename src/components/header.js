@@ -55,7 +55,7 @@ const Navigation = styled.nav`
   @media only screen and (min-width: 768px) {
     margin-top: 0;
   }
-`;
+`
 
 const activeStyle = {
   color: theme.color.brand,
@@ -69,11 +69,21 @@ const Header = ({ siteTitle }) => (
     </Logo>
 
     <Navigation>
-      <a href="https://goo.gl/forms/iwzv5DMDvL72ip2Z2" target="_blank">RSVP</a>
-      <Link to="/schedule" activeStyle={activeStyle}>Schedule</Link>
-      <Link to="/accomodation" activeStyle={activeStyle}>Accomodation</Link>
-      <Link to="/getting-there" activeStyle={activeStyle}>Getting There</Link>
-      <Link to="/misc" activeStyle={activeStyle}>Misc.</Link>
+      <a href="https://goo.gl/forms/iwzv5DMDvL72ip2Z2" target="_blank">
+        RSVP
+      </a>
+      <Link to="/schedule" activeStyle={activeStyle}>
+        Schedule
+      </Link>
+      <Link to="/accomodation" activeStyle={activeStyle}>
+        Accomodation
+      </Link>
+      <Link to="/getting-there" activeStyle={activeStyle}>
+        Getting There
+      </Link>
+      <Link to="/misc" activeStyle={activeStyle}>
+        Misc.
+      </Link>
     </Navigation>
   </Container>
 )

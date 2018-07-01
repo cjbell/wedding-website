@@ -8,5 +8,5 @@ export default {
     primary: '#333',
     brand: '#6B2D46',
     offWhite: '#',
-  }
+  },
 }
