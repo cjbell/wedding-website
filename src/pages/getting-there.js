@@ -35,14 +35,9 @@ const GettingTherePage = ({ google }) => (
 
       <p>
         For those staying in Red Bank or arriving in Red Bank by train, we will
-        be operating a bus to take people to-and-from the venue. The bus will
-        depart at 4.30pm from Red Bank train station, and will depart the
-        wedding venue at 10.15pm to take you back to Red Bank.
-      </p>
-
-      <p>
-        If you plan on taking the bus, please let us know (via email)
-        so we can plan numbers accordingly.
+        be operating a bus to take people to and from the venue. The bus will
+        depart at 4.45pm from The Molly Pitcher (~9 minute walk from the train) and will
+        depart the wedding venue at 10.15pm to take you back to Red Bank.
       </p>
 
       <h3>By Car</h3>

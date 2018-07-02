@@ -31,6 +31,7 @@ const SchedulePage = () => (
     <SectionBody>
       <h3>Friday, October 19th 2018</h3>
       <Location>Red Bank, NJ, USA</Location>
+
       <p>
         <strong>6pm - 11pm</strong> – We'll be at a bar in Red Bank (location TBD) and we'd love
         to see you for a drink if you're here early.
@@ -38,12 +39,22 @@ const SchedulePage = () => (
 
       <h3>Saturday, October 20th 2018</h3>
       <Location>Bayonet Farm, Holmdel, NJ, USA</Location>
+
+      <p>
+        <strong>4.45pm</strong> – Bus departs from the Molly Pitcher Inn (Red Bank) to the venue.
+      </p>
+
       <p>
         <strong>5pm - 10pm</strong> – We'll be kicking things off with cocktails
         before saying a few words, and then sitting down for a buffet. After
-        dinner we'll be having some non-traditional pies and dancing off all of
+        dinner we'll be having some non-traditional pies and then dancing off all of
         that food in a hundred year old barn.
       </p>
+      <p>
+        <strong>10.15pm</strong> – Bus departs from the farm to Molly Pitcher & after party venue.
+      </p>
+
+
       <Location>Red Bank, NJ, USA</Location>
       <p>
         <strong>11pm - Late</strong> – After party for those who aren't already
