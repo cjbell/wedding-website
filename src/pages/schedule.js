@@ -32,7 +32,8 @@ const SchedulePage = () => (
       <h3>Friday, October 19th 2018</h3>
       <Location>Red Bank, NJ, USA</Location>
       <p>
-        <strong>6pm - 11pm</strong> – Drinks to warm things up for those in town early (location TBD).
+        <strong>6pm - 11pm</strong> – We'll be at a bar in Red Bank (location TBD) and we'd love
+        to see you for a drink if you're here early.
       </p>
 
       <h3>Saturday, October 20th 2018</h3>
