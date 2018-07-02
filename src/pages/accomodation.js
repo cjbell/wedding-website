@@ -14,16 +14,19 @@ const AccomodationPage = () => (
 
       <h3>Hotel Options</h3>
 
-      <p>In the nearby town of Red Bank, N.J. there are three hotel options:</p>
+      <p>
+        In the nearby town of Red Bank, N.J. there are three hotel options, all in walking distance
+        from the Red Bank train station.
+      </p>
 
       <ul>
         <li>
           <a href="http://themollypitcher.com/" target="_blank">
             Molly Pitcher Inn
           </a>
-          – We have a block of rooms reserved in the Molly Pitcher Inn. Call
+          – We have a block of rooms reserved in the Molly Pitcher Inn until August 21st. Call
           reservations at 732-747-2500 / 1-800-221-1372 and specify that you'd
-          like to book a room in the Cohen Bell party.
+          like to book a room in the Cohen / Bell party if you wish to take one of these rooms.
         </li>
         <li>
           <a href="http://www.theoysterpointhotel.com/" target="_blank">
@@ -38,19 +41,22 @@ const AccomodationPage = () => (
           >
             Courtyard by Marriott
           </a>
-          – A cheaper option, still in Red Bank and accessible by rail. Probably
+          – A more affordable option still in Red Bank. Probably
           best to book this one via Expedia or Booking.com
         </li>
       </ul>
 
-      <p>Additionally, there are a few other options nearby:</p>
+      <p>
+        Additionally there are a few other options nearby, which will require you driving to the
+        venue or taking a cab.
+      </p>
 
       <ul>
         <li>
           <a href="http://www.coltsneckinnhotel.com/en-us" target="_blank">
             Colts Neck Inn Hotel
           </a>
-          – Located ~11 mins from the venue by car, Colts Neck Inn is a cheap
+          – Located ~11 mins from the venue by car, Colts Neck Inn is a more affordable
           option for accomodation (~$95 per night).
         </li>
 
@@ -59,10 +65,15 @@ const AccomodationPage = () => (
             Quality Inn, Milddletown
           </a>
           – Located ~12 mins from the venue by car, the Quality Inn is another
-          cheap-ish option around the wedding venue. Milddletown is also served
-          by Rail from Penn Station NYC.
+          affordable option around the wedding venue. Milddletown is also served
+          by Rail from Penn Station.
         </li>
       </ul>
+
+      <p>
+        AirBnBs are also an option in the area, please do this sooner than later as the availability
+        is limited.
+      </p>
     </SectionBody>
   </Section>
 )

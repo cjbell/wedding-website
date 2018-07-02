@@ -34,15 +34,15 @@ const GettingTherePage = ({ google }) => (
       <h3>By Bus</h3>
 
       <p>
-        For those staying in Red Bank, or arriving in Red Bank by train we will
+        For those staying in Red Bank or arriving in Red Bank by train, we will
         be operating a bus to take people to-and-from the venue. The bus will
         depart at 4.30pm from Red Bank train station, and will depart the
         wedding venue at 10.15pm to take you back to Red Bank.
       </p>
 
       <p>
-        If you do need to take the bus over, please let us know so we can plan
-        numbers accordingly.
+        If you plan on taking the bus, please let us know (via email)
+        so we can plan numbers accordingly.
       </p>
 
       <h3>By Car</h3>
@@ -50,8 +50,8 @@ const GettingTherePage = ({ google }) => (
       <p>
         There's plenty of parking at Bayonet Farm if you'd like to drive down.
         Finding the entrance to the farm can be slightly tricky – your GPS is
-        likely to give you the wrong entrance and you should enter 58 Middletown
-        Road as the address instead.
+        likely to give you the wrong entrance and you should enter <strong>58 Middletown
+        Road as the address instead</strong>.
       </p>
 
       <p>
@@ -78,7 +78,7 @@ const GettingTherePage = ({ google }) => (
       <h3>By Train</h3>
       <p>
         Red Bank is the nearest accessible train station; it's about a 10 minute
-        drive from the venue. NJ Transit operate the line, which is the North
+        drive from the venue. NJ Transit operates the line, which is the North
         Jersey Coast Line, accessible from Penn Station, NYC.
       </p>
 
@@ -89,8 +89,8 @@ const GettingTherePage = ({ google }) => (
       </p>
 
       <p>
-        There's no real need to book tickets in advance, just turn up at Penn
-        Station and buy them before you travel. It should cost about $16 or so
+        There's no need to book tickets in advance, just turn up at Penn
+        Station and buy them before you travel. Tickets should cost about $16 or so
         per person each way.
       </p>
 

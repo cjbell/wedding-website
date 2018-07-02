@@ -65,8 +65,9 @@ const MiscPage = () => (
       <h3>For the nerds</h3>
 
       <p>
-        This site was built using GatsbyJS, React and Styled Components. It's
-        typeset in Mrs Eaves. The source of the site is available via MIT
+        This site was built using GatsbyJS, React and Styled Components, and is deployed on
+        Netlify. It's typeset in Mrs Eaves, using Roman, Small Caps and Italic.
+        The source of the site is available via MIT
         license{' '}
         <a href="https://github.com/cjbell/wedding-website" target="_blank">
           on Github
