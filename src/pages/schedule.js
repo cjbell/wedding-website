@@ -6,7 +6,6 @@ import theme from '../theme'
 const Location = styled.h4`
   font-family: ${theme.font.tertiary};
   letter-spacing: 1.5px;
-  color: #949494;
 `
 
 const SchedulePage = () => (
