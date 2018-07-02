@@ -20,15 +20,6 @@ export const SectionTitle = styled.h2`
   font-family: '${theme.font.secondary}';
   letter-spacing: 1.5px;
   margin: 0 0 30px 0;
-
-  &:after {
-    content: '';
-    display: block;
-    width: 50px;
-    height: 1px;
-    margin: 20px auto;
-    background-color: ${theme.color.brand};
-  }
 `
 
 export const SectionBody = styled.div`
@@ -43,7 +34,7 @@ export const SectionBody = styled.div`
     font-weight: normal;
     text-align: center;
     font-family: ${theme.font.secondary};
-    margin: 50px 0;
+    margin: 70px 0 30px;
 
     &:after {
       content: '';
@@ -52,6 +43,10 @@ export const SectionBody = styled.div`
       height: 1px;
       margin: 10px auto;
       background-color: ${theme.color.brand};
+    }
+
+    &:first-child {
+      margin-top: 20px;
     }
   }
 
