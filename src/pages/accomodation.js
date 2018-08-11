@@ -29,6 +29,15 @@ const AccomodationPage = () => (
           like to book a room in the Cohen / Bell party if you wish to take one of these rooms.
         </li>
         <li>
+          <a href="https://goo.gl/maps/7eFeRzsYr1T2" target="_blank">
+            Quality Inn, Milddletown
+          </a>
+          – We have a block of rooms at the Quality Inn reserved. Please ask to book in the
+            Cohen + Bell party to get a discounted rate. Call (732)-671-3400.
+
+          Milddletown is also served by Rail from Penn Station.
+        </li>
+        <li>
           <a href="http://www.theoysterpointhotel.com/" target="_blank">
             Oyster Point
           </a>
@@ -58,15 +67,6 @@ const AccomodationPage = () => (
           </a>
           – Located ~11 mins from the venue by car, Colts Neck Inn is a more affordable
           option for accomodation (~$95 per night).
-        </li>
-
-        <li>
-          <a href="https://goo.gl/maps/7eFeRzsYr1T2" target="_blank">
-            Quality Inn, Milddletown
-          </a>
-          – Located ~12 mins from the venue by car, the Quality Inn is another
-          affordable option around the wedding venue. Milddletown is also served
-          by Rail from Penn Station.
         </li>
       </ul>
 

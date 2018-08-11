@@ -20,6 +20,18 @@ const MiscPage = () => (
         the evening.
       </p>
 
+      <p>
+        As a reminder of what cocktail attire for those that didn't know (as we didn't).
+      </p>
+      <ul>
+        <li>
+          <a href="https://www.gentlemansgazette.com/cocktail-attire-for-men/" target="_blank">Definition for men</a>
+        </li>
+        <li>
+          <a href="https://www.whowhatwear.com/cocktail-attire-for-women" target="_blank">Definition for woman</a>
+        </li>
+      </ul>
+
       <h3>Contacting Us</h3>
 
       <ul>
