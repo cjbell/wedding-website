@@ -59,7 +59,7 @@ const SchedulePage = () => (
       <Location>Dublin House, Red Bank, NJ, USA</Location>
       <p>
         <strong>11pm - Late</strong> – After party for those who aren't already
-        partied out. We'll be upstairs at the
+        partied out. We'll be upstairs at the &nbsp;
         <a href="https://goo.gl/maps/L5GgNwHnXNM2" target="_blank">Dublin House</a> until 1am, or until
         they kick us out.
       </p>
