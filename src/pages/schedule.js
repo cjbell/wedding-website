@@ -51,14 +51,17 @@ const SchedulePage = () => (
         that food in a hundred year old barn.
       </p>
       <p>
-        <strong>10.15pm</strong> – Bus departs from the farm to Molly Pitcher & after party venue.
+        <strong>10.15pm</strong> – Bus departs from the farm to Molly Pitcher & the Dubline House
+        for the after party.
       </p>
 
 
-      <Location>Red Bank, NJ, USA</Location>
+      <Location>Dublin House, Red Bank, NJ, USA</Location>
       <p>
         <strong>11pm - Late</strong> – After party for those who aren't already
-        partied out (location TBD).
+        partied out. We'll be upstairs at the
+        <a href="https://goo.gl/maps/L5GgNwHnXNM2" target="_blank">Dublin House</a> until 1am, or until
+        they kick us out.
       </p>
 
       <h3>Sunday, October 21st 2018</h3>
